@@ -1,0 +1,21 @@
+Team|Pld|W|D|L|GF|GA
+Manchester United (C)|38|22|13|3|80|37
+Arsenal|38|22|12|4|59|17
+Chelsea|38|20|15|3|57|30
+Leeds United|38|18|13|7|62|34
+West Ham United|38|16|9|13|46|53
+Aston Villa|38|15|10|13|51|46
+Liverpool|38|15|9|14|68|49
+Derby County|38|13|13|12|40|45
+Middlesbrough|38|12|15|11|48|54
+Leicester City|38|12|13|13|40|46
+Tottenham Hotspur|38|11|14|13|47|50
+Sheffield Wednesday|38|13|7|18|41|42
+Newcastle United|38|11|13|14|48|54
+Everton|38|11|10|17|42|47
+Coventry City|38|11|9|18|39|51
+Wimbledon|38|10|12|16|40|63
+Southampton|38|11|8|19|37|64
+Charlton Athletic (R)|38|8|12|18|41|56
+Blackburn Rovers (R)|38|7|14|17|38|52
+Nottingham Forest (R)|38|7|9|22|35|69
