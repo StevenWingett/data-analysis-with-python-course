@@ -1,6 +1,6 @@
-**Data Analysis with Python Course – Pilot**
+**Data Analysis with Python Course**
  
-Python is a powerful and versatile programming language that can be used to analyse large and complex datasets.  Whether you're collating results, performing statistical tests or investigating gene expression matrices, this course will equip you with core skills to analyse biological data sets.
+Python is a powerful and versatile programming language that can be used to analyse large and complex datasets.  Whether you're collating results, performing statistical tests or investigating gene expression matrices, this course will equip you with the core skills to analyse biological data sets.
  
 **Topics include:**
 - Manipulating data using the pandas library
@@ -19,9 +19,17 @@ A laptop that can connect to the LMB’s intranet.
 **When and where :**
 The whole course is expected to take 4 half-days (16 hours):
  
-[Add dates and rooms]
+xx.00-xx.00, xxx xxx xxx xxx (xxx Room)
+
+
+xx.00-xx.00, xxx xxx xxx xxx (xxx Room)
+
+
+xx.00-xx.00, xxx xxx xxx xxx (xxx Room)
+
+
+xx.00-xx.00, xxx xxx xxx xxx (xxx Room)
  
-The course runs from xx:xx – xx:xx on those days.
  
 There is a substantial amount of material to cover which makes this course relatively long.  Participants would also benefit from practicing the topics covered in their own time between sessions.
  
