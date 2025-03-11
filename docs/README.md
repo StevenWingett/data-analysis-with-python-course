@@ -18,12 +18,9 @@ Topics include:
 
 By the end of the course, attendees should understand how to handle and investigate large datasets using Python.  And although we can't cover every form of analysis in the course, the topics covered will make a good starting point for your own studies.
 
-The course will be run periodically throughout the year, and the course documentation is available at any time online:
-
-https://github.com/StevenWingett/data-analysis-with-python-course
+The course will be run periodically throughout the year, and the course documentation is available at any time online at this **[link](https://github.com/StevenWingett/data-analysis-with-python-course)**.
 
 Please feel free to email **Steven Wingett** for further details.
-
 
 ![LMB Logo](https://seaborn.pydata.org/_images/scatterplot_matrix.png)
 
