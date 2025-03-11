@@ -1,5 +1,4 @@
-
-![LMB Logo](lmb_logo.svg)
+<img src="https://github.com/StevenWingett/Bioinformatics_Computer_Cluster_Course/blob/main/assets/lmb_logo.png?raw=true">
 
 # Data Analysis with Python Course
 
@@ -23,9 +22,9 @@ The course will be run periodically throughout the year, and the course document
 
 https://github.com/StevenWingett/data-analysis-with-python-course
 
-Please feel free to email steven.wingett@mrc-lmb.cam.ac.uk for further details.
+Please feel free to email **Steven Wingett** for further details.
 
 
-![LMB Logo](scatterplot_matrix.png)
+![LMB Logo](https://seaborn.pydata.org/_images/scatterplot_matrix.png)
 
 
