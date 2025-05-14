@@ -22,7 +22,7 @@ The course will be run periodically throughout the year, and the course document
 
 
 ### Registration
-**If there is an upcoming course scheduled, you can register [here](https://sean-pc-7.lmb.internal/cb/next_course/Py_data) (you will need to be connected to the LMB intranet).**
+**If there is an upcoming course scheduled, you can register [here](http://sean-pc-7.lmb.internal/cb/next_course/Py_data) (you will need to be connected to the LMB intranet).**
 
 Please feel free to email **Steven Wingett** for further details.
 
