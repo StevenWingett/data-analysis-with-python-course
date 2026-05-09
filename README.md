@@ -21,7 +21,7 @@ Topics include:
 By the end of the course, attendees should understand how to handle and investigate large datasets using Python.  And although we can't cover every form of analysis in the course, the topics covered will make a good starting point for your own studies.
 
 ## Registration
-If there is an upcoming course scheduled, you can register [here](http://sean-pc-7.lmb.internal/cb/next_course/Py_data) (you will need to be connected to the LMB intranet).
+If there is an upcoming course scheduled, you can register [here](http://sean-pc-7.lmb.internal/cb/course/) (you will need to be connected to the LMB intranet).
 
 ## LMB Cell Biology JupyterHub Server Access
 
@@ -32,6 +32,22 @@ If there is an upcoming course scheduled, you can register [here](http://sean-pc
     http://10.91.193.124:8080/hub/user-redirect/git-pull?repo=https://github.com/StevenWingett/data-analysis-with-python-course&branch=no-answers&app=lab
 
 The course files should now be copied from this Git repository to your JupyterHub account.
+
+## Want to try the course in your own time?
+
+If you are based at the LMB and want access to our JupyterHub server then please let me know and I shall set you up with an account.
+
+If you are based outside the LMB and do not have access to the JupyterHub server then you will need to run the Jupyter Notebook file "Data_Analysis_with_Python_Course.ipynb" on your own computer.  To do this, we recommend installing one of the following software products:
+
+* [JupyterLab](https://jupyter.org)
+
+* Install [Visual Studio Code](https://code.visualstudio.com).  Then, open VS Code and from within VS Code install the relevant JupyterLab widgets.
+
+* [Spyder](https://www.spyder-ide.org)
+
+* Or alternatively, work on one of Google's powerful cloud machines with [Colab](https://colab.research.google.com).
+
+(The course was written for Python v3.11+ running Pandas v3.0+.  If you wish to use a Python virtual environment to run the Jupyter Notebook, a requirements file can be found in the "venv" folder.) 
 
 Please feel free to email **Steven Wingett** for further details.
 
