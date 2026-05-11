@@ -23,7 +23,7 @@ By the end of the course, attendees should understand how to handle and investig
 ## Registration
 If there is an upcoming course scheduled, you can register [here](http://sean-pc-7.lmb.internal/cb/course/) (you will need to be connected to the LMB intranet).
 
-## LMB Cell Biology JupyterHub Server Access
+## LMB Cell Biology JupyterHub access
 
 1) Log in to your JupyterHub account via a Web Browser.
    
@@ -47,7 +47,7 @@ If you are based outside the LMB and do not have access to the JupyterHub server
 
 * Or alternatively, work on one of Google's powerful cloud machines with [Colab](https://colab.research.google.com).
 
-(The course was written for Python v3.11+ running Pandas v3.0+.  If you wish to use a Python virtual environment to run the Jupyter Notebook, a requirements file can be found in the "venv" folder.) 
+(If you wish to use a Python virtual environment to run the Jupyter Notebook, a requirements file can be found in the "ancillary_files" folder.) 
 
 Please feel free to email **Steven Wingett** for further details.
 
