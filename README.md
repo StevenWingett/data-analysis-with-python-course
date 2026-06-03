@@ -49,6 +49,20 @@ If you are based outside the LMB and do not have access to the JupyterHub server
 
 (If you wish to use a Python virtual environment to run the Jupyter Notebook, a requirements file can be found in the "ancillary_files" folder.) 
 
+## Course Structure ##
+
+The course is divided between 4 Jupyter Notebooks, that should be studied in the following order:
+
+[1_Jupyter.ipynb](1_Jupyter.ipynb)
+
+[2_Python.ipynb](2_Python.ipynb)
+
+[3_Pandas.ipynb](3_Pandas.ipynb)
+
+[4_Additional_functionality.ipynb](4_Additional_functionality.ipynb)
+
+Course exercises are to be found in a separate, fifth Jupyter notebook
+
 Please feel free to email **Steven Wingett** for further details.
 
 <hr>
