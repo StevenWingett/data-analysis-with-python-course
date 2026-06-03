@@ -25,7 +25,7 @@ If there is an upcoming course scheduled, you can register [here](http://sean-pc
 
 ## LMB Cell Biology JupyterHub access
 
-1) Log in to your JupyterHub account via a Web Browser.
+1) Log in to your JupyterHub account via a Web Browser.  **Make sure you are on the LMB_Staff_5G network, NOT Eduroam or using a proxy server.**
    
 2) Copy the link below into your browser and press <kbd>Enter</kbd>.
 
