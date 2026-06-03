@@ -18,7 +18,7 @@ Topics include:
 
 By the end of the course, attendees should understand how to handle and investigate large datasets using Python.  And although we can't cover every form of analysis in the course, the topics covered will make a good starting point for your own studies.
 
-**The course documentation is available online: [CLICK HERE FOR MORE DETAILS](../README.md)**
+**The course documentation is available online: [CLICK HERE FOR MORE DETAILS](https://github.com/StevenWingett/data-analysis-with-python-course/blob/main/README.md)**
 
 ### Registration
 **If there is an upcoming course scheduled, you can register [here](http://sean-pc-7.lmb.internal/cb/course/) (you will need to be connected to the LMB intranet).**
